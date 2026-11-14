@@ -1,0 +1,16 @@
+{
+	"name": "oxlint-config",
+	"private": true,
+	"type": "module",
+	"exports": "./oxlint.config.ts",
+	"devDependencies": {
+		"oxfmt": "^0.78.0",
+		"oxlint": "^1.93.0",
+		"oxlint-tsgolint": "^7.0.2007"
+	},
+	"peerDependencies": {
+		"oxlint": "^1.93.0",
+		"oxlint-tsgolint": "^7.0.0"
+	},
+	"packageManager": "pnpm@12.18.0"
+}
