@@ -1,6 +1,6 @@
 import { defineConfig } from "oxlint"
 
-export default defineConfig({
+export const config = defineConfig({
 	options: {
 		typeAware: true
 	},
