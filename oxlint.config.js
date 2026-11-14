@@ -20,6 +20,7 @@ export const config = defineConfig({
 		"typescript/no-non-null-assertion": "off",
 		"typescript/no-unnecessary-condition": ["warn", { allowConstantLoopConditions: true }],
 		"typescript/no-unnecessary-template-expression": "warn",
+		"typescript/no-unnecessary-type-conversion": "warn",
 		"typescript/parameter-properties": "warn",
 		"typescript/promise-function-async": "warn",
 		"typescript/require-array-sort-compare": ["warn", { ignoreStringArrays: true }],
