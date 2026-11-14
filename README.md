@@ -1,5 +1,5 @@
 ```bash
-pnpm add -D pnpm add github:cooolbros/oxlint-config
+pnpm add -D github:cooolbros/oxlint-config
 ```
 
 ```typescript
