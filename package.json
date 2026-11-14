@@ -2,7 +2,7 @@
 	"name": "oxlint-config",
 	"private": true,
 	"type": "module",
-	"exports": "./oxlint.config.ts",
+	"exports": "./oxlint.config.js",
 	"devDependencies": {
 		"oxfmt": "^0.78.0",
 		"oxlint": "^1.93.0",
